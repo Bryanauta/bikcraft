@@ -7,10 +7,6 @@
   display: grid;
   grid-template-columns: 6fr 6fr;
   gap: 0px 40px;
-  max-width: 1200px;
-  margin: 0 auto;
-  box-sizing: border-box;
-  padding: 0px 20px;
 }
 
 .introducao-conteudo {
