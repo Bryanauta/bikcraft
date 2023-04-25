@@ -14,6 +14,10 @@
   padding-bottom: 200px;
 }
 
+.introducao img {
+  width: 100%;
+}
+
 .introducao-conteudo h1 {
   margin-bottom: 32px;
 }
