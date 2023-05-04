@@ -107,3 +107,13 @@
     grid-row: 2;
   }
 }
+
+@media (max-width: 600px) {
+  .bicicleta-informacoes {
+    grid-template-columns: 1fr;
+  }
+
+  .bicicleta-comprar {
+    grid-template-columns: 1fr;
+  }
+}
