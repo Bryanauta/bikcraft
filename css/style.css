@@ -2,6 +2,7 @@
 @import url("./utility/components.css");
 @import url("./utility/typography.css");
 @import url("./utility/colors.css");
+@import url("./utility/formulario.css");
 
 /* === Global === */
 @import url("./global/global.css");
@@ -28,3 +29,8 @@
 
 /* === Bicicleta === */
 @import url("./bicicleta/bicicleta.css");
+@import url("./bicicleta/seguro.css");
+
+/* === Contato === */
+@import url("./contato/contato.css");
+@import url("./contato/lojas.css");
